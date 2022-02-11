@@ -24,7 +24,7 @@ const arrayToCSV = (arr) => {
 }
 
 /*
-    The headers array and the theRw array can be configured to your needs so you include the values and fields you need
+    The headers array and the theRow array can be configured to your needs so you include the values and fields you need
     Available options can be found in the Shopify docs:-
     https://shopify.dev/api/admin-rest/2022-01/resources/product#[get]/admin/api/2022-01/products/{product_id}.json
     https://shopify.dev/api/admin-rest/2022-01/resources/product-variant#[get]/admin/api/2022-01/variants/{variant_id}.json
