@@ -2,7 +2,7 @@
 
 **Warning, this uses undocumented Shopify endpoints, so it might stop working if they change these**
 
-Install to Chrome as an unpacked extension as per this anse on SO:-
+Install to Chrome as an unpacked extension as per this answer on SO:-
 https://stackoverflow.com/questions/24577024/install-chrome-extension-form-outside-the-chrome-web-store
 
 Pin to your toolbar if needed, then when you visit the Transfers within your Shopify Admin the icon will be active.
