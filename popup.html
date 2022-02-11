@@ -1,0 +1,25 @@
+<style>
+    section {
+        padding: 10px;
+        width: 300px;
+        text-align:center;
+    }
+    button {
+        margin: 5px auto;
+        padding: 5px;
+        display: block;
+    }
+    .hide {
+        display: none;
+    }
+</style>
+<section>
+    <button id="export">Export Transfer</button>
+    <!-- Remove the hide class to allow metafields -->
+    <button id="export_metafields" class="hide">Export Transfer (with Metafields)</button>
+    <small>Don't close this popup while exporting.</small>
+    <div id="status"></div>
+    <div id="progress"></div>
+    <div><a href="#" class="hide" id="download">Download</a></div>
+</section>
+<script src="popup.js"></script>
