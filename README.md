@@ -1,6 +1,8 @@
 # Shopify Transfers CSV Export Chrome Extension
 
-**Warning, this uses undocumented Shopify endpoints, so it might stop working if they change these**
+Well that didn't last too long, appears Shopify have removed the `/transfers/[id].json` endpoints, other objects like orders and products still have their `.json` methods. But not transfers, sigh!
+
+~~**Warning, this uses undocumented Shopify endpoints, so it might stop working if they change these**~~
 
 Install to Chrome as an unpacked extension as per this answer on SO:-
 https://stackoverflow.com/questions/24577024/install-chrome-extension-form-outside-the-chrome-web-store
